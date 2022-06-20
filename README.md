@@ -24,4 +24,4 @@ gem 'ipgeobase'
 
 ## Contributing
 
-Сообщения об ошибках и запросы на пул реквесты приветствуются на GitHub по адресу https://github.com/[USERNAME]/ipgeobase.
+Сообщения об ошибках и запросы на пул реквесты приветствуются на GitHub по адресу https://github.com/alex-tar994/ipgeobase.
