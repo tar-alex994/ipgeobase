@@ -30,7 +30,7 @@ class IpgeobaseTest < Minitest::Test
 
     expected_city        = 'Ashburn'
     expected_country     = 'United States'
-    expected_countryCode = 'US'
+    expected_country_code = 'US'
     expected_lat         = '39.03'
     expected_lon         = '-77.5'
 
@@ -38,7 +38,7 @@ class IpgeobaseTest < Minitest::Test
 
     assert { result.city        == expected_city }
     assert { result.country     == expected_country }
-    assert { result.countryCode == expected_countryCode }
+    assert { result.country_code == expected_country_code }
     assert { result.lat         == expected_lat }
     assert { result.lon         == expected_lon }
   end
