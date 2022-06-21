@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/tar-alex994/ipgeobase/actions/workflows/main.yml)](https://github.com/tar-alex994/ipgeobase/actions/workflows/main.yml)
+
 # Ipgeobase
 
 Гем *Ipgeobase* возвращает метаданные об IP. Гем содержит метод `lookup('8.8.8.8')`, который принимает IP-адрес и возвращает объект метаданных.
