@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/tar-alex994/ipgeobase/actions/workflows/Build%20and%20Test/badge.svg)](https://github.com/tar-alex994/ipgeobase/actions/workflows/main.yml)
+[![Actions Status](https://github.com/tar-alex994/ipgeobase/actions/workflows/Main/badge.svg)](https://github.com/tar-alex994/ipgeobase/actions/workflows/main.yml)
 
 # Ipgeobase
 
